@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FirebaseSearch</string>
+    <string name="firebase_database">Firebase Database</string>
+    <string name="access">Access</string>
+    <string name="firebase_base_url">Firebase Base URL</string>
+    <string name="https_fir_databasecontrol_firebaseio_com">https://example.firebaseio.com/</string>
+    <string name="go">Go</string>
+    <string name="base_url_init">https://fir-search-1f288.firebaseio.com</string>
+    <string name="note">Note: To use this app, your database rule must be set
+        read access to public.</string>
+    <string name="example_filter">e.g. Fox</string>
+
+    <string-array name="orderQuery">
+        <item>Order By Child</item>
+        <item>Order By Key</item>
+        <item>Order By Value</item>
+    </string-array>
+
+    <string-array name="filterType">
+        <item>Without Filter</item>
+        <item>Limit To Last</item>
+        <item>Limit To First</item>
+        <item>Start At</item>
+        <item>End At</item>
+        <item>Equal To</item>
+    </string-array>
+</resources>
